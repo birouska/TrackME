@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Track ME</string>
+    <string name="prompt">Quantos Minutos para coletar a Localização?</string>
+    <string-array name="minutes">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+    </string-array>
+</resources>
